@@ -1,2 +1,2 @@
 # YaddaYadda
-an internet message board
+so, whaddaya wanna talk about?
